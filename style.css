@@ -1,0 +1,12 @@
+body{
+    padding: 100px;
+    background-color: whitesmoke;
+}
+
+.container-bg{
+    /* background-color: whitesmoke; */
+}
+
+.jumbo-display{
+    font-weight: 500
+}
